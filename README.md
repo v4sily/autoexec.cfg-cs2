@@ -6,7 +6,7 @@ Autoexec CFG para CS2 diseñada para jugadores que buscan una experiencia más c
 
 ---
 
-## Contenido del autoexec
+## Contenido del autoexec:
 
 1. *Conexión, internet y red* 🌐  
 • Incluye parámetros orientados a reducir la sensación de retraso y mantener una comunicación más estable con el servidor. También ajusta valores relacionados con interpolación y predicción para favorecer una respuesta más directa en partida.
