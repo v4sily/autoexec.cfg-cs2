@@ -1,0 +1,30 @@
+╔══════════════════════════════════════╗
+        📌 INSTALACIÓN DEL AUTOEXEC
+╚══════════════════════════════════════╝
+
+1. ABRE STEAM
+   Inicia Steam y ve a tu biblioteca.
+
+2. ABRE LA CARPETA DEL JUEGO
+   Haz clic derecho sobre Counter-Strike 2, luego entra en:
+   Administrar → Ver archivos locales
+
+3. ENTRA EN LA CARPETA CORRECTA
+   Dentro de los archivos del juego, busca esta ruta:
+
+   `...\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg`
+
+4. COPIA EL ARCHIVO
+   Pega el archivo descargado `autoexec.cfg` dentro de esa carpeta.
+
+5. VERIFICA EL NOMBRE
+   Asegúrate de que el archivo se llame exactamente `autoexec.cfg`.
+
+6. INICIA EL JUEGO
+   Abre CS2 y comprueba que la configuración se haya cargado correctamente.
+
+╔══════════════════════════════════════╗
+             ⚠️ NOTA IMPORTANTE
+╚══════════════════════════════════════╝
+
+Si ya tenías otro archivo `autoexec.cfg`, puedes reemplazarlo o hacer una copia de seguridad antes de pegar el nuevo para no perder los ajustes anteriores si no te llegas a sentir cómodo con este.
