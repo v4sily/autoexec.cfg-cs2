@@ -43,6 +43,6 @@ Algunos comandos pueden variar según futuras actualizaciones de CS2, por lo que
 
 ---
 
-## 📄 Archivo adicional
+## 📄 Archivo adicional 📄
 
 Se incluye un archivo README aparte con las instrucciones necesarias para la instalación y configuración del autoexec.
